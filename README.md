@@ -1,6 +1,6 @@
 # Syna
 
-Syna is a lightweight, high-performance framework for building single-page applications (SPAs) using Web Components. Designed to be fast, memory-efficient, and to offer granular, low-level control. **This is a personal project I built for myself, driven by a passion for learning and experimentation, using Grok 3 and O3-mini**.
+Syna is a lightweight, high-performance library for building single-page applications (SPAs) using Web Components. Designed to be fast, memory-efficient, and to offer granular, low-level control. **This is a personal project I built for myself, driven by a passion for learning and experimentation, using Grok 3 and O3-mini**.
 
 ## Features
 
